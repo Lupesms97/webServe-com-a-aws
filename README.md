@@ -18,6 +18,8 @@ sudo systemctl start httpd
 sudo systemctl enable http
 
 grupo de segurança liberado porta 80 através do grupo de segurança com 0.0.0.0/00 tipo http
+adicionar informações sobre buckewets e s3 
+
 
 
 
