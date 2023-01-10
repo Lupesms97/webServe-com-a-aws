@@ -24,6 +24,11 @@ Buckets são objetos de armazenamento
 Tamanho quase ilimitado de dados não estruturados mas cada objeto pode ter no máximo 5TB, além disso 
 você pode criar quantos objetos você quiser 
 
+S3 Buckets criado sobre luisFelipeMota-bucket:
+ACL desativada por hora
+Cripotografia desativada 
+Acesso publico bloqueado
+
 
 
 
