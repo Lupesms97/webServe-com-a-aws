@@ -1,7 +1,7 @@
 # webServe-com-a-aws
 Criando um Web serve com a aws
 
-# (Link) para acesso liberado [44.211.120.11]
+# Link para acesso liberado (clique aqui)[44.211.120.11]
 
 #VPC 
 Foram escolhidas 2 regiões de disponibilidade para esse projeto 1a e 1b.
