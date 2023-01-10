@@ -19,16 +19,18 @@ sudo systemctl enable http
 
 grupo de segurança liberado porta 80 através do grupo de segurança com 0.0.0.0/00 tipo http
 
-BUckets do Amazon S3
+#BUckets do Amazon S3
 Buckets são objetos de armazenamento 
 Tamanho quase ilimitado de dados não estruturados mas cada objeto pode ter no máximo 5TB, além disso 
 você pode criar quantos objetos você quiser 
 
-S3 Buckets criado sobre luisFelipeMota-bucket:
+#S3 Buckets criado sobre luisFelipeMota-bucket:
 ACL desativada por hora
 Cripotografia desativada 
 Acesso publico bloqueado
 
+
+#O ARQUIVO SERÁ DISPONIBILIZADO ATRAVÉS DA URL [IR PARA BUCKET](https://luisfelipemota-bucket.s3.amazonaws.com/README.md.txt)
 
 
 
