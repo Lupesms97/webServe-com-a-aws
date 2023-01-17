@@ -28,7 +28,7 @@ você pode criar quantos objetos você quiser
 ACL desativada por hora
 Cripotografia desativada 
 Acesso publico bloqueado
-Editando ciclo de vida do bucket 
+Editando ciclo de vida do bucket.
 
 
 
