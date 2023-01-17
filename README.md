@@ -28,6 +28,8 @@ você pode criar quantos objetos você quiser
 ACL desativada por hora
 Cripotografia desativada 
 Acesso publico bloqueado
+Editando ciclo de vida do bucket 
+
 
 
 #O ARQUIVO SERÁ DISPONIBILIZADO ATRAVÉS DA URL [IR PARA BUCKET](https://luisfelipemota-bucket.s3.amazonaws.com/README.md.txt)
